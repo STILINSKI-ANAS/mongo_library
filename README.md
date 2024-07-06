@@ -2,11 +2,10 @@
 # Librain - Library Management System
 
 ## Introduction
-Librain is a modern library management system designed to streamline the operations of libraries. Built on Next.js and utilizing MongoDB as its database, Librain offers robust features for managing books, patrons, and library transactions with ease.
+Librain is a modern library management system designed to streamline the operations of libraries. Built on Next.js and utilizing MongoDB as its database, Librain offers robust features for managing books and library transactions with ease.
 
 ## Features
 - **Book Management**: Add, update, and delete book entries.
-- **Patron Management**: Register library patrons and manage their information.
 - **Transaction Handling**: Check out and check in books with transaction logs.
 - **Search and Filter**: Easily find books and patrons using various criteria.
 
@@ -43,7 +42,7 @@ Before you can run this project, you need to have the following installed:
    This will start the server on [http://localhost:3000](http://localhost:3000). Open it in your browser to see the application.
 
 ## Usage
-To use Librain, navigate to the various sections through the dashboard. You can manage books, patrons, and view transactions from the respective modules.
+To use Librain, navigate to the various sections through the dashboard. You can manage books and view transactions from the respective modules.
 
 ## Contributing
 Contributions to Librain are welcome! Whether it's bug fixes, new features, or improvements to documentation, we appreciate your help.
